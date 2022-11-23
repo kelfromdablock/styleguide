@@ -1,0 +1,230 @@
+header {
+    text-align: center;
+    color:black;
+    text-decoration: underline;
+    font-family: "Staatliches";
+    font-size: 35px;
+    margin: 0 auto;
+    padding: 5px;
+    border-radius: 5px;
+    background-image: url(http://2.bp.blogspot.com/-g6Awii6KH7c/T8RbdInvt8I/AAAAAAAABIs/8KL97ofVv6k/s1600/pencil_jazz.jpg);
+}
+
+/* Colors */
+.colors {
+    border: 1px solid black;
+    margin: 0 auto;
+    padding: 0px;
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+
+h3 {
+    font-size:45px;
+    font-family: "Staatliches";
+    margin: 13px 0px 0px 0px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+p {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+.gray {
+    font-size: 17px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    width:20%;
+    display: inline-block;
+    background-color: #999999;
+    color: white;
+    margin: 25px 10px;
+    padding: 90px 0px;
+    border: 2px solid black; 
+}
+
+.black {
+    font-size: 17px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    width: 20%;
+    display: inline-block;
+    background-color: #000000;
+    color: white;
+    margin: 25px 10px;
+    padding: 90px 0px;
+    border: 2px solid black;
+}
+
+.white {
+    font-size: 17px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    width: 20%;
+    display: inline-block;
+    background-color: #F4F6FA;
+    margin: 25px 10px;
+    padding: 90px 0px;
+    border: 2px solid black;
+}
+
+.charcoal {
+    font-size: 17px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    width: 20%;
+    display: inline-block;
+    background-color: #515151;
+    color: white;
+    margin: 25px 10px;
+    padding: 90px 0px;
+    border: 2px solid black;
+} 
+
+/* Fonts */
+
+.fonts {
+    border: 1px solid black;
+    margin: 25px 0px;
+    padding: 0px 0px 17px 0px;
+    width: 100%;
+    display: block;
+
+}
+
+.label {
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    text-decoration: underline;
+    margin: 30px 0px 20px 5px;
+}
+
+.abel {
+    padding: 0px 25px 0px 25px;
+    display: inline-block;
+    margin: 2%;
+}
+
+.abelnormal {
+    font-family: "Abel";
+    font-size: 20px;
+    padding: 0px;
+    margin: 5px;
+}
+
+.abelbold {
+    font-family: "Abel";
+    font-weight: bold;
+    font-size: 20px;
+    padding: 0px;
+    margin: 5px;
+}
+
+.abelitalic {
+    font-family: "Abel";
+    font-style: italic;
+    font-size: 20px;
+    padding: 0px;
+    margin: 5px;
+}
+
+.ptserif {
+    padding: 0px 25px 0px 25px; 
+    display: inline-block;  
+    margin: 2%; 
+}
+
+.ptserifnormal {
+    font-family: "PT Serif";
+    font-size: 20px;
+    padding: 0px;
+    margin: 5px;
+}
+
+.ptserifbold {
+    font-family: "PT Serif";
+    font-weight: bold;
+    font-size: 20px;
+    padding: 0px;
+    margin: 5px;
+}
+
+.ptserifitalic {
+    font-family: "PT Serif";
+    font-style: italic;
+    font-size: 20px;
+    padding: 0px;
+    margin: 5px;
+}
+
+.shadows {
+    padding: 0px 25px 0px 25px;
+    display: inline-block;
+    margin: 2%;
+}
+
+.shadowsnormal {
+    font-family: "Shadows";
+    font-size: 20px;
+    padding: 0px;
+    margin: 5px;
+}
+
+.shadowsbold {
+    font-family: "Shadows";
+    font-weight: bold;
+    font-size: 20px;
+    padding: 0px;
+    margin: 5px;
+}
+
+.shadowsitalic {
+    font-family: "Shadows";
+    font-style: italic;
+    font-size: 20px;
+    padding: 0px;
+    margin: 5px;
+}
+
+/* Text-Styles */
+
+.textstyles {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    border: 1px solid black;
+    margin: 15px 0px 0px 0px;
+    padding: 0px 0px 1px 0px;
+    width: 100%;
+    display: block;
+}
+
+.heading {
+    font-family: "Vast Shadows";
+    font-weight: 700px;
+    font-size: 26px;
+    display: inline-block;
+    padding: 1px;
+    margin: 0% 5% 0% 5%;
+}
+
+.subheading {
+    font-family: "PT Serif";
+    font-weight: 500;
+    font-size: 18px;
+    display: inline-block;
+    padding: 0px;
+    margin: 0% 5% 0% 5%;
+}
+
+.paragraph {
+    font-family: "Abel";
+    font-weight: 400;
+    font-size: 14px;
+    display: inline-block;
+    padding: 0px;
+    margin: 0% 5% 0% 5%;
+}
